@@ -1,1 +1,0 @@
-# lmanhart.github.io
