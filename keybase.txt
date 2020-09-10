@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lmanhart
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lmanhart.me
+  * I am lmanhart (https://keybase.io/lmanhart) on keybase.
+  * I have a public key ASDI6oYRj1aQ87n045sBI1oEIIdAVQzpw8w2Iwru_lTiawo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c8ea86118f5690f3b9f4e39b01235a04208740550ce9c3cc36230aeefe54e26b0a",
+      "host": "keybase.io",
+      "kid": "0120c8ea86118f5690f3b9f4e39b01235a04208740550ce9c3cc36230aeefe54e26b0a",
+      "uid": "6c38e0519acfd9c37746507665f6e319",
+      "username": "lmanhart"
+    },
+    "merkle_root": {
+      "ctime": 1599745558,
+      "hash": "76b92e870de9a6e2a5f6cce840d9e9f1f069a65249bccb7ca58b39ab3a6f104446ae23ff9cce573af751ff775796fcb3ad86ba10c76d78047f512fac3c5e7850",
+      "hash_meta": "781b75f865db559fd4691d457c8b613ed9972eb784e2e08d64bf451ebe7e9b1a",
+      "seqno": 17526124
+    },
+    "service": {
+      "entropy": "QZNZC2y7tV/SO5kf9RU6eEG+",
+      "hostname": "lmanhart.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1599745572,
+  "expire_in": 504576000,
+  "prev": "9c3bc5729f7edd9a95f9c7f96125fbcbccd60c76c9b18cd38ec637a0c3a22d7e",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgyOqGEY9WkPO59OObASNaBCCHQFUM6cPMNiMK7v5U4msKp3BheWxvYWTESpcCBMQgnDvFcp9+3ZqV+cf5YSX7y8zWDHbJsYzTjsY3oMOiLX7EIGlg0S7IoriV1o0gHGA3tWV8+D7TFx2Z9iJhG9DGQVWKAgHCo3NpZ8RAe/6u25yOlE33NhxH75x/0nYF1n5b53/KvAYx2aGRGsWeCDHpaJdyu0hFSA1lDfG1fmDajG0cAoeOSJWKrfGLDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIN8sv/s0ny7LE1AKHee6Y22lZ1aDE2UTeqv43nxW1/vYo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lmanhart
+
+==================================================================
